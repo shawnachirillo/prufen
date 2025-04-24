@@ -21,7 +21,7 @@ const MapScreen: React.FC = () => {
 
   return (
     <div className="quiz-container">
-      <img src="/clients/backgrounds/codezilla-bg.png" alt="BG" className="background-image" />
+      <img src="/clients/backgrounds/codezilla_bkgd.png" alt="BG" className="background-image" />
       <div className="logo">CODEZILLA</div>
 
       {minions.map((minion) => (
