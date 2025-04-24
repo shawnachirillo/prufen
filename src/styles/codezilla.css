@@ -1,4 +1,5 @@
-/* Custom styles for layout, backgrounds, and typography */
+/* BACKGROUND */
+
 
 .background-image {
     position: absolute;
@@ -19,6 +20,8 @@
     z-index: 10;
   }
   
+  /* QUIZ CONTAINER */
+
   .quiz-container {
     position: relative;
     width: 100%;
@@ -26,6 +29,8 @@
     overflow: hidden;
   }
   
+  /* QUESTION BOX */
+
   .question-box {
     position: absolute;
     top: 50%;
@@ -60,6 +65,8 @@
     z-index: 10;
   }
   
+  /* SIGNUP */
+
   .signup-button {
     font-size: 1rem;
     background: none;

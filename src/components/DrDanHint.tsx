@@ -1,1 +1,1 @@
-// Placeholder for Ask Dr. Dan feature
+// Dr Dan Hint
